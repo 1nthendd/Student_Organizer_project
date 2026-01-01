@@ -1,6 +1,7 @@
-# 🎓 **StudentOrganizer**
-📌 *Nesne Tabanlı Programlama (OOP) Projesi – Java*
----
+<h1>🎓 Student Organizer<h1>
+
+    
+📌 Nesne Tabanlı Programlama (OOP) Projesi – Java
 
 
 
