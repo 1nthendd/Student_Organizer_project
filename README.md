@@ -17,15 +17,15 @@ Bu uygulama ile:
 
 ## 📁 **Proje Dizini**
 
-│
-└── src
-└── main
-├── StudentOrganizerApp.java # Uygulamanın ana dosyası
-├── MainMenu.java # Ana Menü
-├── DersProgramiMenu.java # Ders programı işlemleri
-├── NotlarMenu.java # Not yönetim sistemi
-├── SinavlarMenu.java # Sınav takip sistemi
-├── TakvimMenu.java # Takvim / günlük plan
+--│
+--└── src
+--└── main
+--├── StudentOrganizerApp.java # Uygulamanın ana dosyası
+--├── MainMenu.java # Ana Menü
+--├── DersProgramiMenu.java # Ders programı işlemleri
+--├── NotlarMenu.java # Not yönetim sistemi
+--├── SinavlarMenu.java # Sınav takip sistemi
+--├── TakvimMenu.java # Takvim / günlük plan
 
 ---
 ## 👤 Geliştiriciler
