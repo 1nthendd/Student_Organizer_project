@@ -36,6 +36,7 @@ StudentOrganizer
 ---
 ## 👤 Geliştiriciler
 
-Barakhoev Makhmud
-Ramin Erkenov
-📍 Bolu Abant İzzet Baysal Üniversitesi – Bilgisayar Mühendisliği
+1) Barakhoev Makhmud
+2) Ramin Erkenov
+
+## 📍 Bolu Abant İzzet Baysal Üniversitesi – Bilgisayar Mühendisliği
