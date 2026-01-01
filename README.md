@@ -1,41 +1,35 @@
 # 🎓 **StudentOrganizer**
 📌 *Nesne Tabanlı Programlama (OOP) Projesi – Java*
 
+https://youtu.be/W9PK26830hY
 ---
 
 ## 🧾 **Proje Hakkında**
-**StudentOrganizer**, öğrencilerin akademik hayatını düzenlemesine yardımcı olmak için tasarlanmış bir *Java konsol uygulamasıdır*.  
+**StudentOrganizer**, öğrencilerin akademik hayatını düzenlemesine yardımcı olmak için tasarlanmış bir uygulamasıdır*.  
 
 Bu uygulama ile:
 - 📚 Ders programı takip edilebilir
-- 🧪 Sınav tarihleri kaydedilebilir
+- 🧪 Sınav puanı hesaplabilir
 - ✏️ Notlar yönetilebilir
 - 📅 Takvim üzerinden günlük plan tutulabilir
 
 ---
 
-## 🎯 **Projenin Amacı**
-Bu projenin temel amacı, **Nesne Tabanlı Programlama (OOP)** prensiplerini öğrenmek ve uygulamaktır:
-
-- Sınıflar ve nesneler oluşturmak
-- Encapsulation, inheritance, polymorphism kavramlarını kullanmak
-- Paket yapısı ve proje organizasyonunu öğrenmek
-- Konsol tabanlı menü sistemi geliştirmek
-
----
-
-## 🧩 **Kullanılan OOP Kavramları**
-
-| OOP Kavramı | Kullanımı |
-|-------------|------------|
-| **Class / Object** | Ders, Not, Sınav gibi yapıların nesneleri |
-| **Encapsulation** | `private` alanlar, `getter/setter` metodları |
-| **Polymorphism** | Menü yapılarında farklı işlemler |
-| **Inheritance** | Genişlemeye uygun sınıf tasarımı |
-| **Package Yapısı** | `main/` altında menülerin bölümlere ayrılması |
-
----
-
 ## 📁 **Proje Dizini**
 
+│
+└── src
+└── main
+├── StudentOrganizerApp.java # Uygulamanın ana dosyası
+├── MainMenu.java # Ana Menü
+├── DersProgramiMenu.java # Ders programı işlemleri
+├── NotlarMenu.java # Not yönetim sistemi
+├── SinavlarMenu.java # Sınav takip sistemi
+├── TakvimMenu.java # Takvim / günlük plan
 
+---
+## 👤 Geliştiriciler
+
+Barakhoev Makhmud
+Ramin Erkenov
+📍 Bolu Abant İzzet Baysal Üniversitesi – Bilgisayar Mühendisliği
