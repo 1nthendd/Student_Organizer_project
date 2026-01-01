@@ -1,9 +1,7 @@
 # 🎓 **StudentOrganizer**
 📌 *Nesne Tabanlı Programlama (OOP) Projesi – Java*
-
-https://youtu.be/W9PK26830hY
 ---
-
+https://youtu.be/W9PK26830hY
 ## 🧾 **Proje Hakkında**
 **StudentOrganizer**, öğrencilerin akademik hayatını düzenlemesine yardımcı olmak için tasarlanmış bir uygulamasıdır*.  
 
