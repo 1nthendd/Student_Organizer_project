@@ -20,19 +20,19 @@ Bu uygulama ile:
 
 ---
 ## Modüller ve İşlevleri
-<br>Ders Programı Modülü<br>
+**Ders Programı Modülü**
 1. Ders ekleme
 2. Ders programı görüntüleme
 3. Ders silme
 
-<br>Not Yönetim Modülü<br>
+**Not Yönetim Modülü<br**
 1) Not ekleme
 2) Notları listeleme
 
-<br>Sınav Takip ve Ortalama Hesaplama Modülü<br>
+**Sınav Takip ve Ortalama Hesaplama Modülü**
 1. Sınav notlarının ortalamasını hesaplayabilir
 
-<br>Takvim / Günlük Planlama Modülü<br>
+**Takvim / Günlük Planlama Modülü**
 1) Görev ekleme
 2) Plan görüntüleme
 3) Tamamlanan görevleri kaldırma
