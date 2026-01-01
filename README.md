@@ -18,6 +18,23 @@ Bu uygulama ile:
 - 📅 Takvim üzerinden günlük plan tutulabilir
 
 ---
+## Modüller ve İşlevleri
+<br>Ders Programı Modülü<br>
+1. Ders ekleme
+2. Ders programı görüntüleme
+3. Ders silme
+
+<br>Not Yönetim Modülü<br>
+1) Not ekleme
+2) Notları listeleme
+
+<br>Sınav Takip ve Ortalama Hesaplama Modülü<br>
+1. Sınav notlarının ortalamasını hesaplayabilir
+
+<br>Takvim / Günlük Planlama Modülü<br>
+1) Görev ekleme
+2) Plan görüntüleme
+3) Tamamlanan görevleri kaldırma
 
 ## 📁 **Proje Dizini**
 ```
